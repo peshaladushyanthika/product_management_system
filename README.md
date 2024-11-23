@@ -36,10 +36,10 @@ This is a simple Laravel-based Product Management System that includes user auth
 - Manage products (add, edit, delete, view).
 
 ## Main Folder Structure
-app/: Contains application logic.
-resources/views/: Blade templates for the user interface.
-routes/: Web routes for the application.
-database/migrations/: Database migrations for creating tables.
+- app/: Contains application logic.
+- resources/views/: Blade templates for the user interface.
+- routes/: Web routes for the application.
+- database/migrations/: Database migrations for creating tables.
 
 ## Screenshots
 ![reg](https://github.com/user-attachments/assets/3794a2ff-8305-4f60-ac9b-c7b3e9f87400)
