@@ -17,7 +17,7 @@ This is a simple Laravel-based Product Management System that includes user auth
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone git@github.com:peshaladushyanthika/product_management_system.git
    cd your-repository-name
 2. **Install dependencies:**
    composer install
